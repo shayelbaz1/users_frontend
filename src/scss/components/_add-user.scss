@@ -1,0 +1,29 @@
+.add-user{
+    background: white;
+    h2{
+        font-size: 18px;
+        font-family: "Poppins";
+    }
+    input{
+        padding-left: 0;
+        border: none;
+        border-bottom: 1px solid #E0E3EA;
+        font-size: 15px;
+    }
+    select{
+        padding-left: 0;
+        border: none;
+        border-bottom: 1px solid #E0E3EA;
+        font-size: 15px;
+    }
+    button{
+        margin: auto;
+        width: 140px;
+        background: #577BF9;
+        &:hover{
+            transition: 0.3s;
+            background: #577BF9;
+            opacity: 0.8;
+        }
+    }
+}

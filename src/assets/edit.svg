@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>F30CFDB1-5340-4D05-AD0F-68C973116A03</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter color-interpolation-filters="auto" id="filter-2">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter color-interpolation-filters="auto" id="filter-3">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <path d="M12.0186,6.6787 L9.3236,3.9837 L11.2716,2.0347 L13.9656,4.7287 L12.0186,6.6787 Z M5.0796,13.6247 L2.1026,13.8957 L2.3666,10.9397 L7.9836,5.3227 L10.6796,8.0187 L5.0796,13.6247 Z M15.4036,3.3377 L15.4026,3.3367 L12.6646,0.5987 C11.9236,-0.1403 10.6506,-0.1753 9.9486,0.5297 L0.9526,9.5257 C0.6266,9.8507 0.4246,10.2827 0.3826,10.7397 L0.0036,14.9097 C-0.0224,15.2047 0.0826,15.4967 0.2926,15.7067 C0.4816,15.8957 0.7366,15.9997 0.9996,15.9997 C1.0306,15.9997 1.0606,15.9987 1.0906,15.9957 L5.2606,15.6167 C5.7186,15.5747 6.1496,15.3737 6.4746,15.0487 L15.4716,6.0517 C16.1996,5.3217 16.1686,4.1037 15.4036,3.3377 L15.4036,3.3377 Z" id="path-4"></path>
+    </defs>
+    <g id="LS---Internal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="managing-employees-edit" transform="translate(-1161.000000, -948.000000)">
+            <rect fill="#F6F7F8" x="0" y="0" width="1440" height="1024"></rect>
+            <g id="row-copy-8" transform="translate(127.000000, 915.000000)">
+                <g id="table-copy" transform="translate(1005.000000, 0.000000)">
+                    <g id="bg-2" filter="url(#filter-1)">
+                        <g transform="translate(0.000000, 0.000000)">
+                            <rect id="bg" fill="#FFFFFF" x="1.31615649e-13" y="0" width="177.0015" height="90"></rect>
+                        </g>
+                    </g>
+                    <g filter="url(#filter-2)" font-family="Heebo-Regular, Heebo" font-size="14" font-weight="normal" id="Title-2" line-spacing="20">
+                        <g transform="translate(0.000000, 12.857143)">
+                            <text id="Title"></text>
+                        </g>
+                    </g>
+                </g>
+                <g id="image" transform="translate(1034.000000, 33.000000)" filter="url(#filter-3)">
+                    <g transform="translate(4.000000, 4.000000)">
+                        <mask id="mask-5" fill="white">
+                            <use xlink:href="#path-4"></use>
+                        </mask>
+                        <use id="edit" fill="#222B45" xlink:href="#path-4"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

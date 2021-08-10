@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>375B3B68-A1BC-443F-95F0-F766B5004B6E</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter color-interpolation-filters="auto" id="filter-2">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter color-interpolation-filters="auto" id="filter-3">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="LS---Internal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="managing-employees-edit" transform="translate(-1235.000000, -948.000000)">
+            <rect fill="#F6F7F8" x="0" y="0" width="1440" height="1024"></rect>
+            <g id="row-copy-8" transform="translate(127.000000, 915.000000)">
+                <g id="table-copy" transform="translate(1005.000000, 0.000000)">
+                    <g id="bg-2" filter="url(#filter-1)">
+                        <g transform="translate(0.000000, 0.000000)">
+                            <rect id="bg" fill="#FFFFFF" x="1.31615649e-13" y="0" width="177.0015" height="90"></rect>
+                        </g>
+                    </g>
+                    <g filter="url(#filter-2)" font-family="Heebo-Regular, Heebo" font-size="14" font-weight="normal" id="Title-2" line-spacing="20">
+                        <g transform="translate(0.000000, 12.857143)">
+                            <text id="Title"></text>
+                        </g>
+                    </g>
+                </g>
+                <g id="add-2" transform="translate(1108.000000, 33.000000)" filter="url(#filter-3)">
+                    <g transform="translate(4.000000, 2.000000)">
+                        <path d="M11.05,-2.66453526e-14 C11.985,-2.66453526e-14 12.75,0.779130435 12.75,1.73913043 L12.75,1.73913043 L12.75,2.60869565 L17,2.60869565 L17,4.34782609 L15.3,4.34782609 L15.3,17.3913043 C15.3,18.8295652 14.1525,20 12.75,20 L12.75,20 L4.25,20 C2.8475,20 1.7,18.8295652 1.7,17.3913043 L1.7,17.3913043 L1.7,4.34782609 L0,4.34782609 L0,2.60869565 L4.25,2.60869565 L4.25,1.73913043 C4.25,0.779130435 5.015,-2.66453526e-14 5.95,-2.66453526e-14 L5.95,-2.66453526e-14 Z M13.6,4.34782609 L3.4,4.34782609 L3.4,17.3913043 C3.4,17.8704348 3.7825,18.2608696 4.25,18.2608696 L4.25,18.2608696 L12.75,18.2608696 C13.2175,18.2608696 13.6,17.8704348 13.6,17.3913043 L13.6,17.3913043 L13.6,4.34782609 Z M9.35,6.08695652 L9.35,16.5217391 L7.65,16.5217391 L7.65,6.08695652 L9.35,6.08695652 Z M6.8,6.08695652 L6.8,16.5217391 L5.1,16.5217391 L5.1,6.08695652 L6.8,6.08695652 Z M11.9,6.08695652 L11.9,16.5217391 L10.2,16.5217391 L10.2,6.08695652 L11.9,6.08695652 Z M11.05,1.73913043 L5.95,1.73913043 L5.95,2.60869565 L11.05,2.60869565 L11.05,1.73913043 Z" id="Combined-Shape" fill="#757575"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
